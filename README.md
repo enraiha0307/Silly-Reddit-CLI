@@ -4,6 +4,10 @@ A really basic CLI which outputs a random post on terminal or in the browser acc
 I made this CLI during  "Introduction to Nodejs, v2" course by "Scott Moss".
 You can also refer to his notes [here](https://intro-to-nodejs-v2-site.vercel.app/lesson/09-clis)
 
+<div align="center">
+<img src="./imgs/pic.png" alt="pic of the reddit cli"/>
+</div>
+
 ## Prerequisites
 Ensure you have node version greater than 14.0.0. 
 
@@ -32,3 +36,5 @@ npm install -g
 reddit --print //prints a randompost and its link on the terminal
 reddit  //opens up the post in your default browser
 ```
+
+
